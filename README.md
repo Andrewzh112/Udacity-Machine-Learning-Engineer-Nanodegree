@@ -12,3 +12,4 @@
    - [Time-Series Forecasting - LSTM](https://github.com/Andrewzh112/Udacity---Machine-Learning-Engineer/tree/master/Machine%20Learning%20Case%20Studies/Time_Series_Forecasting)
    - [Plagiarism Detection Project](https://github.com/Andrewzh112/Udacity---Machine-Learning-Engineer/tree/master/Machine%20Learning%20Case%20Studies/Project_Plagiarism_Detection)
 4. Build Your Own Machine Learning Project
+   - [Sneaker ML (image clustering, eigenimage, tsne, classification, gans, deepdream)](https://github.com/Andrewzh112/Sneaker-ML)
